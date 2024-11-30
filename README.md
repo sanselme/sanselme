@@ -1,2 +1,1 @@
 # Schubert Anselme
-._0
