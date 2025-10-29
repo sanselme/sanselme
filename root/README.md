@@ -20,7 +20,6 @@
   - init
 - root
 - tmp
-  - templates
 - Archive.zip
 - init
 
