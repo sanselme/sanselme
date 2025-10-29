@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Workspace}/home/codespace",
+            "name": "Debug cli (home/codespace)",
+            "program": "${workspaceFolder:Workspace}/home/codespace/.build/debug/cli",
+            "preLaunchTask": "swift: Build Debug cli (home/codespace)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Workspace}/home/codespace",
+            "name": "Release cli (home/codespace)",
+            "program": "${workspaceFolder:Workspace}/home/codespace/.build/release/cli",
+            "preLaunchTask": "swift: Build Release cli (home/codespace)"
+        }
+    ]
+}
