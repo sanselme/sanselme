@@ -1,3 +1,6 @@
 [submodule "core/templates"]
 	path = core/templates
 	url = https://github.com/labsonline/templates.git
+[submodule "home/profile/anselmes/public"]
+	path = home/profile/anselmes/public
+	url = git@github.com:anselmes/.github.git
