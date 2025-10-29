@@ -1,8 +1,6 @@
 services:
   workspace:
-    build:
-      context: .
-      dockerfile: Dockerfile
+    image: ghcr.io/anselmes/devcontainer:shell
     ports: []
     volumes:
       - ../bin:/bin
