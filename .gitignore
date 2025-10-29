@@ -72,4 +72,5 @@ $RECYCLE.BIN/
 *.zip
 bin/
 home/
+root/
 tmp/

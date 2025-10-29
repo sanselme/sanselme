@@ -1,23 +1,26 @@
 {
-    "folders": [
-        {
-            "path": "."
-        }
-    ],
-    "settings": {
-        "editor.tabSize": 4,
-        "editor.insertSpaces": true,
-        "files.exclude": {
-            "**/.git": true,
-            "**/node_modules": true,
-            "**/.DS_Store": true
-        }
+  "folders": [
+    {
+      "path": "."
     },
-    "extensions": {
-        "recommendations": [
-            "ms-vscode.vscode-typescript-next",
-            "esbenp.prettier-vscode",
-            "ms-python.python"
-        ]
+    {
+      "path": "core/templates"
     }
+  ],
+  "settings": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "files.exclude": {
+      "**/.git": true,
+      "**/node_modules": true,
+      "**/.DS_Store": true
+    }
+  },
+  "extensions": {
+    "recommendations": [
+      "ms-vscode.vscode-typescript-next",
+      "esbenp.prettier-vscode",
+      "ms-python.python"
+    ]
+  }
 }
