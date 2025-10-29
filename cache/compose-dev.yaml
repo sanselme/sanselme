@@ -1,12 +1,10 @@
 services:
   workspace:
     image: ghcr.io/anselmes/devcontainer:shell
+    stdin_open: true
+    tty: true
     ports: []
     volumes:
-      - ../bin:/bin
-      - ../core:/
-      - ../home:/home
-      - ../root:/root
-      - ../tmp:/tmp
+      - .:/workspace
     environment: []
-    command: init
+    command: zsh -l
