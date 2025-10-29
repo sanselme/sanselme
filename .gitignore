@@ -68,3 +68,8 @@ $RECYCLE.BIN/
 *.lnk
 
 # Project Artifacts
+
+*.zip
+bin/
+home/
+tmp/
