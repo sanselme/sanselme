@@ -1,0 +1,14 @@
+services:
+  workspace:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports: []
+    volumes:
+      - ../bin:/bin
+      - ../core:/
+      - ../home:/home
+      - ../root:/root
+      - ../tmp:/tmp
+    environment: []
+    command: init

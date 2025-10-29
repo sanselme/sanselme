@@ -1,0 +1,16 @@
+{
+    "name": "Development Container",
+    "image": "mcr.microsoft.com/devcontainers/universal:2",
+    "features": {
+        "ghcr.io/devcontainers/features/github-cli:1": {}
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-vscode.vscode-json"
+            ]
+        }
+    },
+    "postCreateCommand": "echo 'Container ready!'",
+    "remoteUser": "codespace"
+}
