@@ -2,6 +2,8 @@
 
 [registry](https://registry.orb.local)
 
+---
+
 ```mermaid
 graph TD
     %% Styling for different device types
@@ -131,6 +133,8 @@ graph TD
     %% MAAS Vault Integration
     MAAS -.->|"Main Vault + SoftHSM"| Harbor
 ```
+
+---
 
 ## Filesystem
 
