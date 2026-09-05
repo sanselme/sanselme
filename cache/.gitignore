@@ -1,7 +1,0 @@
-*
-!.gitignore
-!.devcontainer.json
-!.yamllint.json
-!compose-dev.yaml
-!Dockerfile
-!init.code-workspace
