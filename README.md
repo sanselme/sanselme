@@ -72,13 +72,6 @@ Two repositories are worth your time. Each carries its own README.
 | [sandbox][sandbox] | Demos and tutorials across Rust, Go and Swift, with gRPC/buf API definitions      |
 | [devbox][devbox]   | My local development environment — Make targets, Brewfile, and local CA and certs |
 
-> [!NOTE]
-> The rest of the public list is not a pattern to follow. Four repositories are forks
-> of upstream projects — [btoa][btoa], [contained-app][contained],
-> [HPS2FPGAmapping][hps] and [mcc-virtual][mcc] — carrying their upstream's licensing
-> and conventions rather than mine, and changes to them belong upstream. Four more are
-> archived and kept for reference only.
-
 The full inventory is at <https://github.com/sanselme?tab=repositories>. A reference to
 a repository you cannot open is one you lack access to, not a dead link.
 
@@ -147,13 +140,9 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/>.
 
-[btoa]: https://github.com/sanselme/btoa
-[contained]: https://github.com/sanselme/contained-app
 [devbox]: https://github.com/sanselme/devbox
 [gpl]: https://www.gnu.org/licenses/gpl-3.0
-[hps]: https://github.com/sanselme/HPS2FPGAmapping
 [labs]: https://github.com/labsonline
-[mcc]: https://github.com/sanselme/mcc-virtual
 [me]: https://github.com/sanselme
 [org]: https://github.com/anselmes
 [sandbox]: https://github.com/sanselme/sandbox
