@@ -71,5 +71,5 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 [dco]: https://developercertificate.org/
 [sandbox]: https://github.com/sanselme/sandbox
-[security]: https://github.com/sanselme/sanselme/blob/main/SECURITY.md
+[security]: https://github.com/sanselme/.github/blob/main/SECURITY.md
 [signing]: https://docs.github.com/en/authentication/managing-commit-signature-verification
