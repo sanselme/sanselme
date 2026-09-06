@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/sanselme/sanselme/blob/main/SECURITY.md
+    about: Never use a public issue. Use the repository's Security tab, or email schubert@anselm.es.
+  - name: Contribution policy
+    url: https://github.com/sanselme/sanselme/blob/main/CONTRIBUTING.md
+    about: What is expected from a contribution, and what is not promised in return.
+  - name: Access requests and general questions
+    url: https://github.com/sanselme
+    about: The user profile, including how to reach out.
